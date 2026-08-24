@@ -4,6 +4,12 @@
 **Generated:** 2026-08-11 (bulk Book Dev closeout)  
 **Status:** starter / portfolio boundary
 
+## Current product truth
+
+- A browser-only stopwatch for starting, labeling, stopping, and reviewing work sessions.
+- Session history and totals persist in this browser through `localStorage`.
+- It is a portfolio mini-app, not a payroll-grade timesheet or multi-user service.
+
 ## Purpose
 
 Portfolio repository under Book Dev. This brief records ownership and the
